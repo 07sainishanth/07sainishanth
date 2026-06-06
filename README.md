@@ -48,9 +48,13 @@ Status  : [ ONLINE ] Looking to collaborate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=07sainishanth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07sainishanth&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+<!-- Streak Stats — actively maintained, no self-hosting needed -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=07sainishanth&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br/><br/>
+
+<!-- Trophies — live on Vercel, no issues -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=07sainishanth&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
