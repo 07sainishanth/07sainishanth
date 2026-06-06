@@ -4,7 +4,6 @@
 
 <div align="center">
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF9F¢er=true&vCenter=true&width=500&lines=Hey%2C+I'm+Sai+Nishanth+%F0%9F%91%8B;Software+Designer+%26+Developer;C%2B%2B+%7C+Node.js+%7C+Python+%7C+React;Always+building+something+new...)](https://git.io/typing-svg)
 
 </div>
@@ -49,9 +48,9 @@ Status  : [ ONLINE ] Looking to collaborate
 
 <div align="center">
 
-![07sainishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=07sainishanth&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9f7d4)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=07sainishanth&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9f7d4)
+<img src="https://github-readme-stats.vercel.app/api?username=07sainishanth&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=07sainishanth&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
@@ -61,7 +60,8 @@ Status  : [ ONLINE ] Looking to collaborate
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sainishanthvaka76%40gmail.com-00ff9f?style=flat-square&logo=gmail&logoColor=white)](mailto:sainishanthvaka76@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-sainishanthvaka76%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sainishanthvaka76@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-07sainishanth-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/07sainishanth)
 
 </div>
