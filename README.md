@@ -53,8 +53,8 @@ Status  : [ ONLINE ] Looking to collaborate
 
 <br/><br/>
 
-<!-- Trophies — self-hosted via GitHub Action, served through jsDelivr (avoids the public Vercel instance getting rate-limited/disabled) -->
-[![trophy](https://cdn.jsdelivr.net/gh/07sainishanth/07sainishanth@main/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophies — the official Vercel instance was disabled (DEPLOYMENT_DISABLED); using a community-hosted mirror instead -->
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=07sainishanth&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
